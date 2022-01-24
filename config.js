@@ -1,5 +1,5 @@
 module.exports = {
-  // pushplus token
+  // pushplus 微信推送 token
   PUSH_PLUS_TOKEN: '',
   // 掘金签到 api
   aid: '',
@@ -9,6 +9,6 @@ module.exports = {
   cookie: '',
   // 定时时间
   rule: '30 10 0 * * *',
-  // 是否定时任务
+  // 是否开启定时任务
   isScheduleCronstyle: false,
 }
